@@ -40,4 +40,4 @@ Instaflutter Onboarding is a fully functional app that provides Flutter develope
 * Loading States
 * Error Handling
 
-Coded with ❤️  by <a href="https://www.instaflutter.com">Instaflutter</a>.
+
